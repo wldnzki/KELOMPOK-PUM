@@ -1,1 +1,1 @@
-<?php echo 'Ini halaman berita'; ?>
+<?php echo 'Ini halaman berita organisasi'; ?>
